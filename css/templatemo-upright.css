@@ -229,6 +229,11 @@ hr { border-top: 4px solid #CCC; }
 	color: #068ccf;
 }
 
+.img-cover {
+	margin-top: 90px;
+	margin-left: 150px;
+}
+
 /* Gallery section */
 .tm-gallery {
 	position: relative;
